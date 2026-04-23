@@ -4,9 +4,9 @@ A bulk IP address lookup tool that quickly gathers information from ARIN, the Am
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot_20260416_115502.png" width="18%" />
-  <img src="screenshots/Screenshot_20260416_115542.png" width="18%" />
-  <img src="screenshots/Screenshot_20260416_115616.png" width="18%" />
-  <img src="screenshots/Screenshot_20260416_115637.png" width="18%" />
-  <img src="screenshots/Screenshot_20260416_115655.png" width="18%" />
+  <img src="Screenshot 2026-04-23 100539" width="18%" />
+  <img src="Screenshot 2026-04-23 100723" width="18%" />
+  <img src="Screenshot 2026-04-23 100805" width="18%" />
+  <img src="Screenshot 2026-04-23 100817" width="18%" />
+  <img src="Screenshot 2026-04-23 100919" width="18%" />
 </p>
